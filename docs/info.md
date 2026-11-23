@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Se hizo un circuito de 7 segmentos
 
 ## How to test
 
-Explain how to use your project
+Funciona por medio de un numero binario y en la salida tendras tu salida de 7 segmentos
 
 ## External hardware
 
